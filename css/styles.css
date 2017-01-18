@@ -1,0 +1,18 @@
+
+body{ 
+background-color: black;
+}
+
+h1 {
+	color: grey;
+	font-size: 20px; 
+}
+
+
+p {
+	color: #04590B;
+}
+
+ul > li {
+	color: #04590B;
+}
